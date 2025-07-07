@@ -10,7 +10,7 @@ var i=0;
   var raed="raed";
       var i50=0;
 
-  var raed="hhh";
+
 
 @override
   Widget build(BuildContext context) {
