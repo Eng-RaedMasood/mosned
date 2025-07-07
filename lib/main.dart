@@ -20,7 +20,9 @@ void main() async {
 
   // setupLocator();
 
+  void fuc(){
 
+  }
   // Hive.registerAdapter(NoteModelAdapter());
   final data = ProviderContainer();
   data
