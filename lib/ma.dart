@@ -7,7 +7,7 @@ var i=0;
   var i2=0;
 
     var i5=0;
-
+  var raed="raed";
       var i50=0;
 
 
