@@ -10,7 +10,9 @@ import 'note/presentation/riverpod/note_riverpod.dart';
 //   locator.registerLazySingleton(() => NoteReposaitories());
 // }
 final sl = GetIt.instance;
+  void fuc(){
 
+  }
 Future<void> init() async {
   /// Riverpod
   // sl.registerFactory(() => MedicinesNotifier());
