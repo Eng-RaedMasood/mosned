@@ -13,6 +13,7 @@ class AuthPAge extends StatefulWidget {
 class _AuthPAgeState extends State<AuthPAge> {
   var auth;
 
+
   _aith()async{
     auth = await LocalAuth.authenticate();
     auth==true?navigateTo(context,BottomNavigationBarWidget()):null;
