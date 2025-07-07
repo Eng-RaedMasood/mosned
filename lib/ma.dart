@@ -10,7 +10,7 @@ var i=0;
 
       var i50=0;
 
-var hu="hhh";
+  var raed="hhh";
 
 @override
   Widget build(BuildContext context) {
