@@ -11,7 +11,7 @@ import 'note/presentation/riverpod/note_riverpod.dart';
 // }
 final sl = GetIt.instance;
   void fuc(){
-
+var m1="111";
   }
 Future<void> init() async {
   /// Riverpod
